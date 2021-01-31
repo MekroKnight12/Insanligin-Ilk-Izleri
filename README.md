@@ -75,7 +75,7 @@ Yazının olmadığı toplumlarda kayıtlara geçmemiş ve konuşma dili yoluyla
 
 - Tarih öncesi çağlar sınıflandırılırken insanların kullanmış olduğu araçlar ve madenler esas alınmıştır.
 - Zamanla bu dönemlendirmeye, yerleşme, üretim biçimi, yaşam koşullarını belirleyen diğer etkenler gibi faktörler de eklenmiştir.
-&nbsp;
+<br>
 
 ### Taş Çağı
 
