@@ -28,8 +28,6 @@ Bereketli **Hilal** olarak da adlandırılan bu coğrafyada iklim giderek insan 
 &nbsp;
 ## İlk İnsanların Hayat Tarzı ve Geçim Kaynakları
 
-* * *
-
 - İlk insanlar avcılık ve toplayıcılık yapıyorlardı.
 - Besin bulabilmek için göçebe bir hayat sürüyorlardı.
 - Tarımla birlikte yerleşik hayata geçildi.
@@ -37,8 +35,6 @@ Bereketli **Hilal** olarak da adlandırılan bu coğrafyada iklim giderek insan 
 - Sonra kabileler büyüdü büyüdü devlet oldu.
 &nbsp;
 ## Yerleşik İnsan ve Medeniyet
-
-* * *
 
 ### Anadolu'daki İlk Yerleşim Merkezleri
 
@@ -63,8 +59,6 @@ Günümüze kadar keşfedilen en erken tarihli **tapınak** mimari yerleşim mer
 
 ## Sözlü Kültür
 
-* * *
-
 Yazının olmadığı toplumlarda kayıtlara geçmemiş ve konuşma dili yoluyla kuşaktan kuşağa aktarılan kültürdür.
 
 ### Sözlü Kültür Ürünleri
@@ -78,8 +72,6 @@ Yazının olmadığı toplumlarda kayıtlara geçmemiş ve konuşma dili yoluyla
 - Bilmeceler
 
 ## Tarih Öncesi Dönemlendirme
-
-* * *
 
 - Tarih öncesi çağlar sınıflandırılırken insanların kullanmış olduğu araçlar ve madenler esas alınmıştır.
 - Zamanla bu dönemlendirmeye, yerleşme, üretim biçimi, yaşam koşullarını belirleyen diğer etkenler gibi faktörler de eklenmiştir.
