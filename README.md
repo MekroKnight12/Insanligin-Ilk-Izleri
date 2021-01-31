@@ -7,7 +7,7 @@ Yazı öncesi dönemin aydınlatılabilmesinde en önemli unsur **arkeolojik** a
 
 Bereketli **Hilal** olarak da adlandırılan bu coğrafyada iklim giderek insan yaşamına uygun hâle gelmiş ve bu bölgede nüfus artmaya başlamıştır.
 
-![Screenshot from 2021-01-31 11-40-22.png](../_resources/f2918fb97bcf479fb0b181f99f1b9e44.png)
+![01](01.png)
 
 ### Yazı öncesi dönemin aydınlatılmasında;
 
@@ -99,7 +99,7 @@ Yazının olmadığı toplumlarda kayıtlara geçmemiş ve konuşma dili yoluyla
 Tarih öncesi devirler her bölgede aynı anda yaşanmamıştır.
 &nbsp;
 
-![Screenshot from 2021-01-31 13-24-32.png](../_resources/34aa3607a4dd43f49b5f202d048613a4.png)
+![02](02.png)
 
 <br>
 
