@@ -1,11 +1,11 @@
 # İnsanlığın İlk İzleri
 
-Yazı öncesi dönemin aydınlatılabilmesinde en önemli unsur **arkeolojik** araştırmalardır.
+Yazı öncesi dönemin aydınlatılabilmesinde en önemli unsur <b>arkeolojik</b> araştırmalardır.
 
 2.5 milyon yıl önce dünyanın buzlarla kaplı olması nedeniyle yerleşmeler görülmez.
 12 bin yıl önce Anadolu'nun güneydoğusunda ve Mezopotamya'da yerleşimler ortaya çıkmıştır.
 
-Bereketli **Hilal** olarak da adlandırılan bu coğrafyada iklim giderek insan yaşamına uygun hâle gelmiş ve bu bölgede nüfus artmaya başlamıştır.
+Bereketli <b>Hilal</b> olarak da adlandırılan bu coğrafyada iklim giderek insan yaşamına uygun hâle gelmiş ve bu bölgede nüfus artmaya başlamıştır.
 
 ![01](01.png)
 
@@ -16,7 +16,7 @@ Bereketli **Hilal** olarak da adlandırılan bu coğrafyada iklim giderek insan 
 - Taş aletler
 - Kemik süslemeleri
 - Pişmiş kil aletler
-    <span style="color: red;">*o döneme ayna tutar.*</span>
+    <span style="color: red;"><i>o döneme ayna tutar.</i></span>
 
 ### Yazı öncesinde insanlar;
 
@@ -42,19 +42,19 @@ Bereketli **Hilal** olarak da adlandırılan bu coğrafyada iklim giderek insan 
 
 #### <span style="color: red;">Çayönü</span>
 
-Türkiye'de ve Güneydoğu Avrupa'da Yeni Taş Çağı'nda kurulan ilk **köy** yerleşim yeridir.
+Türkiye'de ve Güneydoğu Avrupa'da Yeni Taş Çağı'nda kurulan ilk <b>köy</b> yerleşim yeridir.
 
 * * *
 
 #### <span style="color: purple;">Çatalköyük</span>
 
-İnsanlık tarihinin ilk **kent** yerleşmesi olarak kabul edilmektedir. UNESCO listesindedir.
+İnsanlık tarihinin ilk <b>kent</b> yerleşmesi olarak kabul edilmektedir. UNESCO listesindedir.
 
 * * *
 
 #### <span style="color: cyan;">Göbeklitepe</span>
 
-Günümüze kadar keşfedilen en erken tarihli **tapınak** mimari yerleşim merkezidir. UNESCO listesindedir.
+Günümüze kadar keşfedilen en erken tarihli <b>tapınak</b> mimari yerleşim merkezidir. UNESCO listesindedir.
 &nbsp;
 
 ## Sözlü Kültür
@@ -103,4 +103,4 @@ Tarih öncesi devirler her bölgede aynı anda yaşanmamıştır.
 
 <br>
 
-*Son*
+<i>Son<i>
