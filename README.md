@@ -16,7 +16,7 @@ Bereketli <b>Hilal</b> olarak da adlandırılan bu coğrafyada iklim giderek ins
 - Taş aletler
 - Kemik süslemeleri
 - Pişmiş kil aletler
-    <span style="color: red;"><i>o döneme ayna tutar.</i></span>
+<span style="color: red;"><i>o döneme ayna tutar.</i></span>
 
 ### Yazı öncesinde insanlar;
 
@@ -76,6 +76,7 @@ Yazının olmadığı toplumlarda kayıtlara geçmemiş ve konuşma dili yoluyla
 - Tarih öncesi çağlar sınıflandırılırken insanların kullanmış olduğu araçlar ve madenler esas alınmıştır.
 - Zamanla bu dönemlendirmeye, yerleşme, üretim biçimi, yaşam koşullarını belirleyen diğer etkenler gibi faktörler de eklenmiştir.
 &nbsp;
+
 ### Taş Çağı
 
 - Eski Taş
